@@ -155,7 +155,9 @@ nav:
       - Softwares : documentation/installation.md 
       - Blinking LED : documentation/led_blink.md
       - "Blank Template": documentation/template.md
-      - "3D Designing": documentation/Video Vlog.md
+      - "Video vlog": documentation/Video Vlog.md
+      - "Images": documentation/images.md
+
 
   - Projects:
       - Overview: projects/index.md
