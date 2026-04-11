@@ -1,11 +1,13 @@
-# 3D Designing
+# Video vLog
 
-this is a demmo
+This is my video vlog of 7th grade. 
 
-## Design software
+1st video vlog
+<iframe
+    src = "https://drive.google.com/file/d/1QmIlR1wd_HIAIVbjjytdHAbBOeMLS875/preview"
+    width = "100%"
+    height = "480">
+</iframe>
 
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
 
-## Real life projects
 
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
