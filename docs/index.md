@@ -9,7 +9,7 @@ hide:
 <div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=11Iv3SLKtvxkPJtWHDVe7mT8Nu9T19R1cPi&sz=w1600') center/cover no-repeat;" markdown>
 
 
-# Namdren's Life at TRA
+# My Life at TRA
 
 _A place where you can know more about me_
 
