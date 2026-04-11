@@ -66,11 +66,4 @@ I am Namdren Nidup Tsheyang, a passionate photography lover and a true bookworm.
 -  **Reading** 
 <hr class="section-divider">
 
-## 📬 Contact
 
-| Platform | Link |
-|----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
