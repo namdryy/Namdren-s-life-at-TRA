@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# About Me
+# 
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
@@ -25,16 +25,15 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Namdren 
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"A person's character is built in the storm but remembered in the sunshine."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am Namdren Nidup Tsheyang, a passionate photography lover and a true bookworm. I find joy in capturing moments through my lens and getting lost in the world of books. I’m someone who values meaningful connections and loves spending time with the people closest to me. As a cat person, I appreciate the quiet comfort and companionship they bring. What drives me is my curiosity, creativity, and the simple happiness found in the things I love.
 
-</div>
+</>
 
 </div>
 
@@ -42,40 +41,29 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🎓 Education
 
-| Year | Degree / Grade | School |
+| Year |  | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 
+|2025-2030 | | The Royal Academy |
 
 ## 🛠️ Skills
 
 <div markdown>
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">Reading</span>
+<span class="skill-badge">Communication</span>
 
 </div>
 
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
 
 <hr class="section-divider">
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
-
+-  **Photography**
+-  **Cycling** 
+-  **badminton** — 
+-  **Reading** 
 <hr class="section-divider">
 
 ## 📬 Contact
