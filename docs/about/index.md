@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# 
+# About me
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
